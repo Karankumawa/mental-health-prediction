@@ -122,6 +122,6 @@ SPSU Udaipur
 LinkedIn: [karan-kumawat](https://www.linkedin.com/in/karan-kumawat-066b9324b/)
 
 ## Note 
-The project is build whit the my team mental health predictor.
+The project is build with my team mental health predictor.
 
 ---
