@@ -1,6 +1,6 @@
-# Cognifit:- Mental Health Prediction App
+# Mindflow:- Mental Health Prediction App
 
-**Cognifit** is an AI-driven mental health risk assessment platform, built with Python and Streamlit. It predicts an individual's likelihood of mental health conditions such as **stress, anxiety, and depression** based on lifestyle, behavioral, and demographic data.
+**Mindflowt** is an AI-driven mental health risk assessment platform, built with Python and Streamlit. It predicts an individual's likelihood of mental health conditions such as **stress, anxiety, and depression** based on lifestyle, behavioral, and demographic data.
 
 The platform is designed for **early screening and awareness**, empowering **students**, **professionals**, and **healthcare institutions** to track, assess, and visualize mental well-being through a user-friendly and interactive dashboard.
 
